@@ -1,28 +1,22 @@
 fileFormatVersion: 2
-guid: 425bc21980bea0946a5791ab5b83a642
+guid: 2f63c3edc2fcc1148854bded55e2e167
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1659985312132837270
-    second: BlackHole_0
+      213: 6897479667268090689
+    second: Demon_0
   - first:
-      213: 3244765572408433266
-    second: BlackHole_1
+      213: 8954813872578069252
+    second: Demon_1
   - first:
-      213: -7124188950702160687
-    second: BlackHole_2
+      213: -1940908528617272751
+    second: Demon_2
   - first:
-      213: -1892763151464423435
-    second: BlackHole_3
+      213: -4852002737857526351
+    second: Demon_3
   - first:
-      213: -3787421210036374242
-    second: BlackHole_4
-  - first:
-      213: 4005509723746021257
-    second: BlackHole_5
-  - first:
-      213: -2316918926075952446
-    second: BlackHole_6
+      213: 3027676544100657071
+    second: Demon_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -77,7 +71,7 @@ TextureImporter:
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
-  flipbookColumns: 3
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -112,64 +106,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlackHole_0
+      name: Demon_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 99
-        width: 1069
-        height: 882
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 323, y: 60, z: 327, w: 60}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f2b0ea8d3790710800000000000000
-      internalID: 1659985312132837270
+      spriteID: 14b7ef48635c8bf50800000000000000
+      internalID: 6897479667268090689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackHole_1
+      name: Demon_1
       rect:
         serializedVersion: 2
-        x: 1121
-        y: 104
-        width: 997
-        height: 881
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 304, y: 23, z: 306, w: 67}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27a52dab819b70d20800000000000000
-      internalID: 3244765572408433266
+      spriteID: 40381c0c5c3e54c70800000000000000
+      internalID: 8954813872578069252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackHole_2
+      name: Demon_2
       rect:
         serializedVersion: 2
-        x: 2243
-        y: 106
-        width: 907
-        height: 881
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 305, y: 44, z: 272, w: 86}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d482a815ebc12d90800000000000000
-      internalID: -7124188950702160687
+      spriteID: 15acd320af18015e0800000000000000
+      internalID: -1940908528617272751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 287, y: 117, z: 236, w: 116}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b587c887393aacb0800000000000000
+      internalID: -4852002737857526351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 291, y: 188, z: 174, w: 154}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e6e986c7740a20800000000000000
+      internalID: 3027676544100657071
       vertices: []
       indices: 
       edges: []
@@ -177,7 +213,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 4974515da44cfd644a151e1c7ab4d2ff
     internalID: 0
     vertices: []
     indices: 

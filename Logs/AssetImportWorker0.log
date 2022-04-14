@@ -15,11 +15,11 @@ C:/Users/angel/Unity_Projects/Bringin_Hell
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62515
+52983
 Successfully changed project path to: C:/Users/angel/Unity_Projects/Bringin_Hell
 C:/Users/angel/Unity_Projects/Bringin_Hell
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 201.93 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 221.05 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.32f1 (12f8b0834f07)
 [Subsystems] Discovering subsystems at path C:/Program Files/2020.3.32f1/Editor/Data/Resources/UnitySubsystems
@@ -49,89 +49,89 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/2020.3.32f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/2020.3.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/2020.3.32f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/2020.3.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.016109 seconds.
+Registered in 0.011494 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 218.62 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 209.55 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.303 seconds
+- Completed reload, in  3.318 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3304ms)
-		BeginReloadAssembly (511ms)
+	ReloadAssembly (3318ms)
+		BeginReloadAssembly (387ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (4ms)
-		EndReloadAssembly (2399ms)
-			LoadAssemblies (497ms)
-			RebuildTransferFunctionScriptingTraits (5ms)
-			SetupTypeCache (780ms)
+		EndReloadAssembly (2533ms)
+			LoadAssemblies (369ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (902ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (160ms)
-			SetupLoadedEditorAssemblies (899ms)
+			SetupLoadedEditorAssemblies (904ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (23ms)
+				InitializePlatformSupportModulesInManaged (21ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (219ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (413ms)
-				ProcessInitializeOnLoadMethodAttributes (155ms)
+				RefreshPlugins (210ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (439ms)
+				ProcessInitializeOnLoadMethodAttributes (147ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.032111 seconds.
+Registered in 0.017168 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.31 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.915 seconds
+- Completed reload, in  5.363 seconds
 Domain Reload Profiling:
-	ReloadAssembly (5919ms)
-		BeginReloadAssembly (857ms)
+	ReloadAssembly (5367ms)
+		BeginReloadAssembly (833ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (28ms)
+			DisableScriptedObjects (29ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (78ms)
-		EndReloadAssembly (4714ms)
-			LoadAssemblies (643ms)
+			CreateAndSetChildDomain (70ms)
+		EndReloadAssembly (4213ms)
+			LoadAssemblies (506ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1512ms)
+			SetupTypeCache (1442ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (224ms)
-			SetupLoadedEditorAssemblies (1886ms)
+			RebuildScriptCaches (219ms)
+			SetupLoadedEditorAssemblies (1593ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (22ms)
+				InitializePlatformSupportModulesInManaged (21ms)
 				SetLoadedEditorAssemblies (2ms)
 				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (553ms)
-				ProcessInitializeOnLoadAttributes (1082ms)
-				ProcessInitializeOnLoadMethodAttributes (183ms)
-				AfterProcessingInitializeOnLoad (40ms)
+				BeforeProcessingInitializeOnLoad (470ms)
+				ProcessInitializeOnLoadAttributes (1008ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (44ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (33ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.41 seconds
-Refreshing native plugins compatible for Editor in 1.86 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.32 seconds
+Refreshing native plugins compatible for Editor in 1.81 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 84.2 MB.
 System memory in use after: 84.3 MB.
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2238.
-Total: 14.817100 ms (FindLiveObjects: 0.411000 ms CreateObjectMapping: 0.280600 ms MarkObjects: 13.895400 ms  DeleteObjects: 0.226300 ms)
+Total: 16.155300 ms (FindLiveObjects: 0.387000 ms CreateObjectMapping: 0.287600 ms MarkObjects: 15.281700 ms  DeleteObjects: 0.195200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -145,67 +145,43 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Sprites/Background/Hell/HellBackground.png
-  artifactKey: Guid(30a7dc1e042f57f48a91ebe75d3ca408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellBackground.png using Guid(30a7dc1e042f57f48a91ebe75d3ca408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ba8cd9e39dc35ffc35c872aabf4e55') in 0.500161 seconds 
+  path: Assets/Sprites/Midground/Hell/Angel_Run.png
+  artifactKey: Guid(a4011d1df8e849b49a6ada09825f406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Midground/Hell/Angel_Run.png using Guid(a4011d1df8e849b49a6ada09825f406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1525a41ffa8f1b5558d1ee7605ab5490') in 0.333585 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.455800 seconds.
-  path: Assets/Sprites/Background/Hell/HellBackground.png
-  artifactKey: Guid(30a7dc1e042f57f48a91ebe75d3ca408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellBackground.png using Guid(30a7dc1e042f57f48a91ebe75d3ca408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd2e8c90049d8812a8adca50eec88d3b') in 0.298939 seconds 
+  Time since last request: 6.032460 seconds.
+  path: Assets/Sprites/Midground/Hell/Angel_Run.png
+  artifactKey: Guid(a4011d1df8e849b49a6ada09825f406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Midground/Hell/Angel_Run.png using Guid(a4011d1df8e849b49a6ada09825f406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be416bf678ee5382e57d83deec8124a') in 0.123036 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 162.298443 seconds.
-  path: Assets/Sprites/Background/Hell/HellBackground.png
-  artifactKey: Guid(30a7dc1e042f57f48a91ebe75d3ca408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellBackground.png using Guid(30a7dc1e042f57f48a91ebe75d3ca408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b70d521f184f2c42ed2a2c6604d1ae6') in 0.071621 seconds 
+  Time since last request: 159.721822 seconds.
+  path: Assets/Sprites/Midground/Hell/Angel_Run.png
+  artifactKey: Guid(a4011d1df8e849b49a6ada09825f406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Midground/Hell/Angel_Run.png using Guid(a4011d1df8e849b49a6ada09825f406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9be235e68ee0d925dcf26e2c534a56') in 0.372119 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 55.654582 seconds.
-  path: Assets/Sprites/Background/Hell/HellBackground.png
-  artifactKey: Guid(30a7dc1e042f57f48a91ebe75d3ca408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellBackground.png using Guid(30a7dc1e042f57f48a91ebe75d3ca408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe124da33a86dde26f25c50308e6ea87') in 0.175778 seconds 
+  Time since last request: 138.960498 seconds.
+  path: Assets/Sprites/Midground/Hell/Angel_Run.anim
+  artifactKey: Guid(6a364eb2a1ee4b6409a3877305958bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Midground/Hell/Angel_Run.anim using Guid(6a364eb2a1ee4b6409a3877305958bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c9c9fdcd0f12e6754ff7e5454907a6') in 0.021368 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 337.986536 seconds.
-  path: Assets/Sprites/Background/Hell/HellBack.png
-  artifactKey: Guid(1afc4c99a29b0344f95898641a7220c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellBack.png using Guid(1afc4c99a29b0344f95898641a7220c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd402ae37d590c733ff540763867c8e9') in 0.103094 seconds 
+  Time since last request: 4.492730 seconds.
+  path: Assets/Sprites/Midground/Hell/Angel_Run_0.controller
+  artifactKey: Guid(8b74333a4da590f43b2bfbc9b6b8468c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Midground/Hell/Angel_Run_0.controller using Guid(8b74333a4da590f43b2bfbc9b6b8468c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd22a7e595e9343a0bd6ec025abb43fd') in 0.036989 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000943 seconds.
-  path: Assets/Sprites/Background/Hell/HellBack01.png
-  artifactKey: Guid(7cf7b45b6d520564db078924791514b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellBack01.png using Guid(7cf7b45b6d520564db078924791514b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5c43c51221f504c3492e78add396ca') in 0.063405 seconds 
+  Time since last request: 416.850561 seconds.
+  path: Assets/Animations/Demon_0.controller
+  artifactKey: Guid(9afd291eeb6c8ab4cb66d68b509d8a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Demon_0.controller using Guid(9afd291eeb6c8ab4cb66d68b509d8a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b744628a3a7e8d1c1a818e07b375e15') in 0.045010 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000880 seconds.
-  path: Assets/Sprites/Background/Hell/HellBack02.png
-  artifactKey: Guid(66c6b6cb9958e53458e352d017dfb17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellBack02.png using Guid(66c6b6cb9958e53458e352d017dfb17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e20c88fb06d711663fc4770e256442a') in 0.229144 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 733.323760 seconds.
-  path: Assets/Sprites/Background/Hell/HellParallax.png
-  artifactKey: Guid(06c96325261c2f745a98a6577864df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellParallax.png using Guid(06c96325261c2f745a98a6577864df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ef5f501ef75258e33d3cd72d339c47') in 0.404102 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 28.893753 seconds.
-  path: Assets/Sprites/Background/Hell/HellParallax.png
-  artifactKey: Guid(06c96325261c2f745a98a6577864df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellParallax.png using Guid(06c96325261c2f745a98a6577864df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9265386fb8ca2fc451419134697239c9') in 0.204409 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 42.771592 seconds.
-  path: Assets/Sprites/Background/Hell/HellParallax.png
-  artifactKey: Guid(06c96325261c2f745a98a6577864df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellParallax.png using Guid(06c96325261c2f745a98a6577864df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444f0eb67601fc88980fa4888c8ec7c1') in 0.305198 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 69.294012 seconds.
-  path: Assets/Sprites/Background/Hell/HellParallax.png
-  artifactKey: Guid(06c96325261c2f745a98a6577864df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background/Hell/HellParallax.png using Guid(06c96325261c2f745a98a6577864df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ebcb737484037e95e27ddbc419fd11') in 0.214484 seconds 
+  Time since last request: 8.956510 seconds.
+  path: Assets/Animations/Demon_Impulse.anim
+  artifactKey: Guid(b5add135dad971b44b5c2af8cd5a1ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Demon_Impulse.anim using Guid(b5add135dad971b44b5c2af8cd5a1ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da5bcb7596e4b593798f33207743e5a') in 0.036060 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
